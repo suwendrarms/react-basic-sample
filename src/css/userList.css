@@ -1,0 +1,39 @@
+.navigation {
+    background-color: #ccb63e;
+    color: white;
+    font-size: 24px;
+    padding: 5px;
+}
+
+.justify-content-between.btn-toolbar {
+    float: right;
+}
+
+.btn.btn-info {
+    background-color: #ccb63e;
+    border: 1px solid #ccb63e;
+    color: white;
+}
+
+.btn.btn-info:hover {
+    background-color: #212529;
+}
+
+#dropdown-basic {
+    background-color: transparent;
+    border-radius: 19px;
+    border: 1px solid #fbf7f7;
+}
+
+.dropdown-item {
+    padding: 9px;
+}
+
+.editBtn.btn.btn-info.btn-md {
+    background-color: #02047d;
+    border: none;
+}
+
+.active  {
+    background-color: #02047d !important;
+}

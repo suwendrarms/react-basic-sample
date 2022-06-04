@@ -1,0 +1,43 @@
+.shadow-sm.rounded-lg.test-left.slide_w.p-1.col-lg-2.col-md-3.col-sm-3 {
+    padding: 29px !important;
+}
+
+.sideNavItem {
+    padding: 9px;
+    text-decoration: none;
+    color: white;
+}
+
+.sideNavItem:hover {
+    color: #d9bb19;
+    font-weight: bold;
+}
+
+.shadow-sm.rounded-lg.test-left.slide_w.p-1.col-lg-2.col-md-3.col-sm-3 {
+    background-color: #212529;
+    color: white !Important;
+}
+
+/* .btn.btn-primary {
+    background-color: transparent;
+    border: none;
+    text-align: inherit;
+} */
+
+.btn-menu{
+    background-color: transparent;
+    border: none;
+    text-align: inherit;
+}
+
+#example-collapse-text {
+    padding: 25px;
+    border-radius: 10px !important;
+}
+
+#example-collapse-text {
+    background-color: #17131378;
+    width: 100% !important;
+    border-radius: 10px !important;
+
+}
